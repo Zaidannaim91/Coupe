@@ -1,0 +1,41 @@
+{
+   "title":"[Coupe] Iroha's Hue",
+   "description":"",
+   "author":"Coupe",
+   "artist":"Coupe",
+   "cover":"https://i.imgur.com/LPlZQFK.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/0Gw6beS"
+         },
+         "last_updated":1624606143,
+         "title":"Iroha's Hue",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZiTVCVL"
+         },
+         "last_updated":1624606143,
+         "title":"Yume's Hue",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/G6dZ9Of"
+         },
+         "last_updated":1624606143,
+         "title":"All Our Hues",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rKFQJAf"
+         },
+         "last_updated":1624606143,
+         "title":"All Our Hues+",
+         "volume":"4"
+      }
+   }
+}
