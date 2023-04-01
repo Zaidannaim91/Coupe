@@ -1,0 +1,33 @@
+{
+   "title":"[Coupe] Smashing!",
+   "description":"",
+   "author":"Coupe",
+   "artist":"Coupe",
+   "cover":"https://i.imgur.com/jsaSb08.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/D1FglCY"
+         },
+         "last_updated":1624606143,
+         "title":"Smashing!",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/cXUSzeT"
+         },
+         "last_updated":1624606143,
+         "title":"Smashing! 1.5",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mWiOQVB"
+         },
+         "last_updated":1624606143,
+         "title":"Smashing!! 2",
+         "volume":"3"
+      }
+   }
+}
