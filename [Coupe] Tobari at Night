@@ -1,0 +1,25 @@
+{
+   "title":"[Coupe] Tobari at Night",
+   "description":"",
+   "author":"Coupe",
+   "artist":"Coupe",
+   "cover":"https://i.imgur.com/05WcneX.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/3RmpRiB"
+         },
+         "last_updated":1624606143,
+         "title":"Tobari at Night",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/8sWVOou"
+         },
+         "last_updated":1624606143,
+         "title":"Tobari at Night II ~ Veil of Darkness",
+         "volume":"2"
+      }
+   }
+}
